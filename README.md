@@ -1,3 +1,3 @@
 # fwb12kikkuri
-sri harsha kikkuri
+Sri Harsha Kikkuri
 [heroku server link](https://fwb12kikkuri.herokuapp.com/)
